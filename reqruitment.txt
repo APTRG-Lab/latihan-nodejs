@@ -1,0 +1,3 @@
+module =  npm install socket.io
+module = npm install serialport
+module = npm install express
